@@ -4,7 +4,7 @@
 ```
 gem install bundler
 ```
-2. 関連するGemのインストール
+2. Gemのインストール
 ```
 bundle install --path vendor/bundler
 ```
